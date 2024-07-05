@@ -16,3 +16,6 @@ Insight Generation: Conclusions and actionable insights drawn from the analysis.
 Python: Pandas, NumPy for data manipulation; Matplotlib, Seaborn for visualization.
 SQL: connected Sql with Python.
 Jupyter Notebooks: Integrated development for interactive data analysis and visualization.
+
+# Contributing
+Contributions are welcome! Feel free to fork and submit pull requests.
